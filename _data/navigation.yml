@@ -1,0 +1,9 @@
+main:
+  - title: "All Categories"
+    url: /categories/
+  - title: "Malware Analysis"
+    url: /categories/#malware-analysis
+  - title: "Reverse Engineering"
+    url: /categories/#reverse-engineering
+  - title: "About Me"
+    url: /about/
