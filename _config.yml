@@ -62,21 +62,20 @@ author:
   bio    : "Malware Analyst & Reverse Engineer"
   location: "Egypt"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/M4lcode"
+    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/M4lcode"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/M4lcode/"
+    - label: "Cv"
+      icon: ""
+      url: "https://drive.google.com/file/d/17DXVvl9o7h-iCuwxX1J-z2XePJCLRVWP/view?usp=sharing"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/M4lcode"
+ 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/M4lcode"
