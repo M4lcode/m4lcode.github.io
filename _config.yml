@@ -69,6 +69,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/M4lcode/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/M4lcode"  
     - label: "Cv"
       icon: ""
       url: "https://drive.google.com/file/d/1APDn1o5rCFb-qQu-StFaTg10St_g1Ej4/view?usp=sharing"
@@ -82,6 +85,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/M4lcode/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/M4lcode"  
 
 defaults:
   # _posts
