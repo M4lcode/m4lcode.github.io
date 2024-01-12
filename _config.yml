@@ -16,7 +16,7 @@
 title: M4lcode
 description: >- # this means to ignore newlines until "baseurl:"
  Malware Analyst & Reverse Engineer
-logo: /assets/images/site-images/logo.png
+logo: /assets/images/site-images/icon.png
 
 
 twitter_username: M4lcode
@@ -74,7 +74,7 @@ author:
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/M4lcode"  
     - label: "Cv"
-      icon: "fa fa-file-text"
+      icon: ""
       url: "https://drive.google.com/file/d/1APDn1o5rCFb-qQu-StFaTg10St_g1Ej4/view?usp=sharing"
 
 footer:
