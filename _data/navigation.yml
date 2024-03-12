@@ -3,7 +3,9 @@ main:
     url: /categories/
   - title: "Malware Analysis"
     url: /categories/#malware-analysis
-  - title: "Reverse Engineering"
-    url: /categories/#reverse-engineering
+  - title: "Threat Intelligence"
+    url: /categories/#threat-intelligence
+  - title: "OSINT Challenges"
+    url: /categories/#osint
   - title: "About Me"
     url: /about/
