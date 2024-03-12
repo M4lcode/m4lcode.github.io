@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Mostafa Farghaly"
   avatar : "/assets/images/site-images/profile.jpg"
-  bio    : "Malware Analyst | Threat Intelligence Analyst"
+  bio    : "Malware Analyst & Threat Intelligence Analyst"
   links:
     
     - label: "GitHub"
