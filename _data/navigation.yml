@@ -3,8 +3,8 @@ main:
     url: /categories/
   - title: "Malware Analysis"
     url: /categories/#malware-analysis
-  - title: "Threat Intelligence"
-    url: /categories/#threat-intelligence
+  - title: "DFIR"
+    url: /categories/#dfir
   - title: "OSINT Challenges"
     url: /categories/#osint
   - title: "About Me"
