@@ -20,8 +20,8 @@ After struggling for four consecutive days to set it up, I encountered numerous 
 
 First we need to turn on hyper-V
 
-![](/assets/images/ARM/image5.jpg)
-![](/assets/images/ARM/image6.jpg)
+![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image5.jpg)
+![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image6.jpg)
 
 If you don't have hyper-v you need to install this (also of this tutorial didn't work with you you need to install it)
 
@@ -43,15 +43,15 @@ First open **SDK Manager**
 
 I tried many versions of ARM android images and the only version worked is **7.1.1 API 25**
 
-![](/assets/images/ARM/image3.jpg)
+![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image3.jpg)
 
 You need to install these also
 
-![](/assets/images/ARM/image2.jpg)
+![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image2.jpg)
 
 The intel HAXM is required to run this avd HAXM is not installed error message can be solved by installing **intel x86 emulator accelerator**:
 
-![](/assets/images/ARM/image4.jpg)
+![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image4.jpg)
 
 install this also
 ```
@@ -60,7 +60,7 @@ https://github.com/intel/haxm
 
 Now open **AVD Manager**
 
-![](/assets/images/ARM/image7.jpg)
+![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image7.jpg)
 
 In my case if I choosed a device rather than **Nexus 4** or **WXGA Tablet** the vm won't work. (I really don't know why)
 
@@ -68,8 +68,8 @@ Also make the internal storage 200 - 500 mb if the machine didn't open
 
 Now let's start the machine
 
-![](/assets/images/ARM/image8.jpg)
-![](/assets/images/ARM/image9.jpg)
+![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image8.jpg)
+![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image9.jpg)
 
 It worked!
 
