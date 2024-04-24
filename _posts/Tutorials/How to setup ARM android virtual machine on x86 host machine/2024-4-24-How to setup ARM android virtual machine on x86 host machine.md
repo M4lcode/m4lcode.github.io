@@ -67,6 +67,8 @@ In my case if I choosed a device rather than **Nexus 4** or **WXGA Tablet** the 
 
 Also make the internal storage 200 - 500 mb if the machine didn't open
 
+And check **use host gpu** option
+
 Now let's start the machine
 
 ![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image8.jpg)
