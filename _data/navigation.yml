@@ -5,7 +5,7 @@ main:
     url: /categories/#malware-analysis
   - title: "DFIR"
     url: /categories/#dfir
-  - title: "OSINT Challenges"
-    url: /categories/#osint
+  - title: "Tutorials"
+    url: /categories/#Tutorials
   - title: "About Me"
     url: /about/
