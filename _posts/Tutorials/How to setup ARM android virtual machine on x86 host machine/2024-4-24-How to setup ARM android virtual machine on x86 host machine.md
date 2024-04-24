@@ -2,7 +2,7 @@
 title: "How to setup ARM android virtual machine on x86 host machine"
 classes: wide
 header:
-  teaser: /assets/images/site-images/Mortis.jpeg
+  teaser: /assets/images/site-images/AndroidARM.jpeg
 ribbon: Red
 description: ""
 categories:
