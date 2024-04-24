@@ -6,7 +6,7 @@ header:
 ribbon: ForestGreen
 description: ""
 categories:
-  - Malware Analysis
+  - Tutorials
 toc: true
 
 
