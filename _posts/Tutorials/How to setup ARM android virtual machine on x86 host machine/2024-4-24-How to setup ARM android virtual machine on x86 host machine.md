@@ -36,7 +36,7 @@ https://stackoverflow.com/questions/37505709/how-do-i-download-the-android-sdk-w
 ```
 and download **SDK Installer_r24.4.1** 
 
-![](/assets/images/ARM/image1.jpg)
+![](/assets/images/How to setup ARM android virtual machine on x86 host machine/image1.jpg)
 
 # Which android version to install?
 
