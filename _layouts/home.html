@@ -6,12 +6,10 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% assign sorted_posts = site.posts | sort: 'order' %}
-
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
-  {% assign posts = sorted_posts %}
+  {% assign posts = site.posts %}
 {% endif %}
 
 {% for post in posts %}
