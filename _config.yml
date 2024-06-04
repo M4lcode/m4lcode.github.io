@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Mostafa ElSheimy"
   avatar : "/assets/images/site-images/profile.jpg"
-  bio    : "Malware Analyst at Cyber5W | Android & Windows Malware Reverse Engineer"
+  bio    : "Malware Analyst at Cyber5W || Android & Windows Malware Reverse Engineer"
   links:
     
     - label: "GitHub"
