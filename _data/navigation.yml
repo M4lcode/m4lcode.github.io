@@ -3,8 +3,6 @@ main:
     url: /categories/
   - title: "Malware Analysis"
     url: /categories/#malware-analysis
-  - title: "DFIR"
-    url: /categories/#dfir
   - title: "Tutorials"
     url: /categories/#Tutorials
   - title: "About Me"
