@@ -60,9 +60,12 @@ plugins:
 author:
   name   : "Mostafa ElSheimy"
   avatar : "/assets/images/site-images/profile1.jpg"
-  bio    : "Malware Analyst at Cyber5W, Android & Windows Malware Reverse Engineer"
+  bio    : "Malware Analyst at Cyber5W. Android & Windows Malware Reverse Engineer"
   links:
-    
+   
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mostafafarghaly6826@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/M4lcode"
@@ -76,6 +79,9 @@ author:
 footer:
   links:
  
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: "mostafafarghaly6826@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/M4lcode"
