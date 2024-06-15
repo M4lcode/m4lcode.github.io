@@ -63,9 +63,6 @@ author:
   bio    : "Malware Analyst at Cyber5W. Android & Windows Malware Reverse Engineer"
   links:
    
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: mostafafarghaly6826@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/M4lcode"
@@ -78,10 +75,7 @@ author:
    
 footer:
   links:
- 
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "location.href = 'mailto:' + ['mostafafarghaly6826','gmail.com'].join('@')"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/M4lcode"
