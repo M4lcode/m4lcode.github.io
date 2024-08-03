@@ -1,0 +1,11 @@
+main:
+  - title: "All Categories"
+    url: /categories/
+  - title: "Malware Analysis"
+    url: /categories/#malware-analysis
+  - title: "Threat Intelligence"
+    url: /categories/#Threat Intelligence
+  - title: "Tutorials"
+    url: /categories/#Tutorials
+  - title: "About Me"
+    url: /about/
