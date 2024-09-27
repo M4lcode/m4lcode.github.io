@@ -7,5 +7,7 @@ main:
     url: /categories/#Threat Intelligence
   - title: "Tutorials"
     url: /categories/#Tutorials
+  - title: "YARA Rules"
+    url: https://github.com/M4lcode/YARA-Rules
   - title: "About Me"
     url: /about/
