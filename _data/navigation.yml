@@ -3,8 +3,6 @@ main:
     url: /categories/#malware-analysis
   - title: "YARA Rules"
     url: https://github.com/M4lcode/YARA-Rules
-  - title: "Threat Intelligence"
-    url: /categories/#Threat Intelligence
   - title: "Tutorials"
     url: /categories/#Tutorials
   - title: "About Me"
