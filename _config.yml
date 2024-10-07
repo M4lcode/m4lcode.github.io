@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mostafa ElSheimy"
+  name   : "M4lcode"
   avatar : "/assets/images/site-images/profile1.jpg"
   bio    : "Malware Analyst at Cyber5W, Guest Blog Author at ANY.RUN. Malware Reverse Engineer & Threat Hunter. 18 Yo"
   links:
