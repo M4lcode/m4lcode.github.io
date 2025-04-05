@@ -10,10 +10,12 @@ categories:
   - Malware Analysis
 toc: true
 ---
+
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://blog.cyber5w.com/matanbuchus-loader-analysis">
+    <meta http-equiv="refresh" content="3; url=https://blog.cyber5w.com/matanbuchus-loader-analysis">
   </head>
   <body>
+    <p>You are being redirected to the full analysis on <a href="https://blog.cyber5w.com/matanbuchus-loader-analysis">ANY.RUN</a>. If you are not redirected automatically, click the link.</p>
   </body>
 </html>

@@ -9,11 +9,12 @@ categories:
   - Malware Analysis
 toc: true
 ---
+
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url=https://blog.cyber5w.com/analyzing-macro-enabled-office-documents">
+    <meta http-equiv="refresh" content="3; url=https://blog.cyber5w.com/analyzing-macro-enabled-office-documents">
   </head>
   <body>
-    
+    <p>You are being redirected to the full analysis on <a href="https://blog.cyber5w.com/analyzing-macro-enabled-office-documents">ANY.RUN</a>. If you are not redirected automatically, click the link.</p>
   </body>
 </html>
