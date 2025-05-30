@@ -15,6 +15,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://blog.cyber5w.com/gafgyt-backdoor-analysis">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on <a href="https://blog.cyber5w.com/gafgyt-backdoor-analysis">ANY.RUN</a>. If you are not redirected automatically, click the link.</p>
+    <p>You are being redirected to the full analysis on <a href="https://blog.cyber5w.com/gafgyt-backdoor-analysis">Cyber5W</a>. If you are not redirected automatically, click the link.</p>
   </body>
 </html>
