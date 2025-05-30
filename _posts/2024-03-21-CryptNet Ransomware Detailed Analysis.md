@@ -17,6 +17,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://blog.cyber5w.com/cryptnet-ransomware-analysis">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on <a href="https://blog.cyber5w.com/cryptnet-ransomware-analysis">ANY.RUN</a>. If you are not redirected automatically, click the link.</p>
+    <p>You are being redirected to the full analysis on <a href="https://blog.cyber5w.com/cryptnet-ransomware-analysis">Cyber5W</a>. If you are not redirected automatically, click the link.</p>
   </body>
 </html>
