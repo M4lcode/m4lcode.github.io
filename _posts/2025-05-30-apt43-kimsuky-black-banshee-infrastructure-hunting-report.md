@@ -4,9 +4,9 @@ classes: wide
 header:
   teaser:
 ribbon: Red
-description: "Check out my latest investigation: "APT43 (Kimsuky / Black Banshee) Infrastructure Hunting Report" on DeXpose blog"
+description: "Check out my latest investigation: APT43 (Kimsuky / Black Banshee) Infrastructure Hunting Report on DeXpose blog"
 categories:
-  - Malware Analysis
+  - Threat Intelligence
 toc: true
 
 
