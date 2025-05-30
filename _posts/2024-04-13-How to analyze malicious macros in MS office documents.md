@@ -15,6 +15,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://blog.cyber5w.com/analyzing-macro-enabled-office-documents">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on <a href="https://blog.cyber5w.com/analyzing-macro-enabled-office-documents">ANY.RUN</a>. If you are not redirected automatically, click the link.</p>
+    <p>You are being redirected to the full analysis on <a href="https://blog.cyber5w.com/analyzing-macro-enabled-office-documents">Cyber5W</a>. If you are not redirected automatically, click the link.</p>
   </body>
 </html>
