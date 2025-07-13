@@ -5,7 +5,7 @@ classes: wide
 header:
   teaser: /assets/images/site-images/nova.jpg
 ribbon: Red
-description: "Check out my Technical Analysis of Nova KeyLogger on ANY.RUN"
+description: "Detailed analysis of Nova KeyLogger, published on ANY.RUN blog."
 categories:
   - Malware Analysis
 toc: true
@@ -16,6 +16,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://any.run/cybersecurity-blog/nova-keylogger-malware-analysis">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on <a href="https://any.run/cybersecurity-blog/nova-keylogger-malware-analysis">ANY.RUN</a>. If you are not redirected automatically, click the link.</p>
+    <p>You are being redirected to the full analysis on ANY.RUN blog. If you are not redirected automatically, click the link https://any.run/cybersecurity-blog/nova-keylogger-malware-analysis</p>
   </body>
 </html>

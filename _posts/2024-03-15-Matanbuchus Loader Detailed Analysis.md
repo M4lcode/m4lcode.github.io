@@ -5,7 +5,7 @@ classes: wide
 header:
   teaser: /assets/images/site-images/matanbuchus.jpg
 ribbon: Red
-description: "Check out my detailed analysis of the Matanbuchus Loader on Cyber5W"
+description: "Detailed analysis of Matanbuchus Loader, published on Cyber5W blog."
 categories:
   - Malware Analysis
 toc: true
@@ -16,6 +16,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://blog.cyber5w.com/matanbuchus-loader-analysis">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on <a href="https://blog.cyber5w.com/matanbuchus-loader-analysis">Cyber5W</a>. If you are not redirected automatically, click the link.</p>
+    <p>You are being redirected to the full analysis on Cyber5W blog. If you are not redirected automatically, click the link https://blog.cyber5w.com/matanbuchus-loader-analysis</p>
   </body>
 </html>

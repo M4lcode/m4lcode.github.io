@@ -5,7 +5,7 @@ classes: wide
 header:
   teaser: /assets/images/site-images/dark.jpg
 ribbon: Red
-description: "Check out my detailed analysis of DarkComet RAT on ANY.RUN"
+description: "Detailed analysis of DarkComet RAT, published on ANY.RUN blog."
 categories:
   - Malware Analysis
 toc: true
@@ -16,6 +16,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://any.run/cybersecurity-blog/darkcomet-rat-technical-analysis">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on <a href="https://any.run/cybersecurity-blog/darkcomet-rat-technical-analysis">ANY.RUN</a>. If you are not redirected automatically, click the link.</p>
+    <p>You are being redirected to the full analysis on ANY.RUN blog. If you are not redirected automatically, click the link https://any.run/cybersecurity-blog/darkcomet-rat-technical-analysis</p>
   </body>
 </html>
