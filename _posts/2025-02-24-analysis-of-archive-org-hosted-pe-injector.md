@@ -17,6 +17,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://blog.dexpose.io/analysis-of-archive-org-hosted-pe-injector">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on DeXpose Blog. If you are not redirected automatically, click the link</p>
+    <p>You are being redirected to the full analysis on DeXpose Blog. If you are not redirected automatically, click the link <a href="https://blog.dexpose.io/analysis-of-archive-org-hosted-pe-injector" target="_blank" rel="noopener noreferrer">https://blog.dexpose.io/analysis-of-archive-org-hosted-pe-injector</a></p>
   </body>
 </html>
