@@ -16,6 +16,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://any.run/cybersecurity-blog/nova-keylogger-malware-analysis">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on ANY.RUN blog. If you are not redirected automatically, click the link https://any.run/cybersecurity-blog/nova-keylogger-malware-analysis</p>
+    <p>You are being redirected to the full analysis on ANY.RUN blog. If you are not redirected automatically, click the link <a href="https://any.run/cybersecurity-blog/nova-keylogger-malware-analysis" target="_blank" rel="noopener noreferrer">https://any.run/cybersecurity-blog/nova-keylogger-malware-analysis</a></p>
   </body>
 </html>

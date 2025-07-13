@@ -17,6 +17,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://blog.dexpose.io/egypt-post-impersonation-linked-to-smishing-triad">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on DeXpose Blog. If you are not redirected automatically, click the link https://blog.dexpose.io/egypt-post-impersonation-linked-to-smishing-triad</p>
+    <p>You are being redirected to the full analysis on DeXpose Blog. If you are not redirected automatically, click the link <a href="https://blog.dexpose.io/egypt-post-impersonation-linked-to-smishing-triad" target="_blank" rel="noopener noreferrer">https://blog.dexpose.io/egypt-post-impersonation-linked-to-smishing-triad</a></p>
   </body>
 </html>

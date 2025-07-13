@@ -17,6 +17,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://blog.dexpose.io/apt43-kimsuky-black-banshee-infrastructure-hunting-report">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on DeXpose Blog. If you are not redirected automatically, click the link https://blog.dexpose.io/apt43-kimsuky-black-banshee-infrastructure-hunting-report</p>
+    <p>You are being redirected to the full analysis on DeXpose Blog. If you are not redirected automatically, click the link <a href="https://blog.dexpose.io/apt43-kimsuky-black-banshee-infrastructure-hunting-report" target="_blank" rel="noopener noreferrer">https://blog.dexpose.io/apt43-kimsuky-black-banshee-infrastructure-hunting-report</a></p>
   </body>
 </html>

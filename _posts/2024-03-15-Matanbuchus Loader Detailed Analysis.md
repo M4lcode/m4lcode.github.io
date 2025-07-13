@@ -16,6 +16,6 @@ toc: true
     <meta http-equiv="refresh" content="3; url=https://blog.cyber5w.com/matanbuchus-loader-analysis">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on Cyber5W blog. If you are not redirected automatically, click the link https://blog.cyber5w.com/matanbuchus-loader-analysis</p>
+    <p>You are being redirected to the full analysis on Cyber5W blog. If you are not redirected automatically, click the link <a href="https://blog.cyber5w.com/matanbuchus-loader-analysis" target="_blank" rel="noopener noreferrer">https://blog.cyber5w.com/matanbuchus-loader-analysis</a></p>
   </body>
 </html>
