@@ -43,7 +43,7 @@ When we go to the first call we see a string, network IOC, decoded strings by ba
 
 ![](/assets/images/VidarStealer/3.jpg)
 
-# Encrypted Strings
+## Encrypted Strings
 So, let’s decode it in CyberChef
 
 ![](/assets/images/VidarStealer/4.jpg)
@@ -68,7 +68,7 @@ So this function decode the base64 encoded strings then decrypt the rc4 decrypti
 
 After decoding and decrypting all strings Let’s go to the next call **sub_419700**
 
-# Resolve APIs
+## Resolve APIs
 The first call is returning handle of kernel32 dll
 ![](/assets/images/VidarStealer/8.jpg)
 
@@ -117,7 +117,7 @@ let's go to the first call **sub_421620**
 
 We see a string which looks like a key, this function is returning to this which means that the function initializing the value of the structure, so I'll call it "init_this_struct". 
 
-# C2 Communication
+## C2 Communication
 In the next call we see **wsprintfA** functions.
 
 ![](/assets/images/VidarStealer/17.jpg)
@@ -218,14 +218,14 @@ Then it’s deleting all things that the malware did like downloaded DLLs and ex
 ![](/assets/images/VidarStealer/36.jpg)
 
 
-# Conclusion
+## Conclusion
 
 So, we now have a big picture of what this malware does.
 First, there is a binary file that will drop two files into the system, the first file is a dll and the second is our executable. The executable is decoding and decrypting strings then it resolves API calls, then it compares the computer default language id with (Uzbek, Azeri, Kazakh, Russian, Ukrainian, Belarusian) language IDs to stop the execution if they are the same, then the malware see if it is being analyzed or not.
 After that it download the necessary dll files then request pages to get the configuration values for which data to collect. after that it steals browsers data, messages and crypto wallets and put the data in a folder then compress the folder. After all of that it sends the zip file and delete dll files.
 <br>
 
-# IOCs
+## IOCs
 
 ```
 Loader sha256: 5cd0759c1e566b6e74ef3f29a49a34a08ded2dc44408fccd41b5a9845573a34c
@@ -237,7 +237,7 @@ Second dropped binary: FB9B940FFE27E744EEEAEF3D1A2805CE205668274BDABC3A30863B016
 C2: himarkh[.]xyz
 
 ```
-# References
+## References
 
 ```
 https://www.youtube.com/watch?v=lxdlNOaHJQA
