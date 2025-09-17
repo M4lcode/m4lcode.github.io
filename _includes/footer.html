@@ -1,5 +1,5 @@
 <footer class="footer">
-  <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
+  <span class="footer_item">{{ site.time | date: "%Y" }} © M4lcode.</span>
   <small class="footer_copyright">
     <!-- Klisé Theme: https://github.com/piharpi/jekyll-klise -->
     <a
@@ -14,7 +14,7 @@
     >
   </small>
 </footer>
-<script src="/assets/js/main.js" defer="defer"></script>
+<script src="{{ '/assets/js/main.js' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" defer></script>
 
 {%- if page.google_analytics -%}
   <script src="/assets/js/galite.js"></script>
