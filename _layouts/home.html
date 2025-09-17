@@ -3,12 +3,22 @@ layout: default
 home: true
 ---
 
-<h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
-{%- for post in site.posts -%}
-<article class="post-item">
-  <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
-  <h4 class="post-item-title">
-    <a href="{{ post.url }}">{{ post.title | escape }}</a>
-  </h4>
-</article>
+<h2 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h2>
+
+{%- assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
+{%- assign posts_by_year = posts_by_year | sort: "name" | reverse -%}
+
+{%- for year in posts_by_year -%}
+  <section class="posts-year">
+    <h3 class="posts-year-title">{{ year.name }}</h3>
+
+    {%- for post in year.items -%}
+      <article class="post-item">
+        <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+        <h4 class="post-item-title">
+          <a href="{{ post.url }}">{{ post.title | escape }}</a>
+        </h4>
+      </article>
+    {%- endfor -%}
+  </section>
 {%- endfor -%}
