@@ -1,0 +1,13 @@
+.posts-item-note {
+  @include relative-font-size(1.5); // 24px if base is 16px
+  font-weight: $bold-weight;
+  margin-top: $spacing-half;
+  margin-bottom: $spacing-half;
+  color: $black;
+}
+
+@include media-query($on-mobile) {
+  .posts-item-note {
+    @include relative-font-size(1.35); // slightly smaller on mobile
+  }
+}
