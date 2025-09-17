@@ -6,4 +6,22 @@
   />
   <h2 class="author-name">{{ site.author.name }}</h2>
   <p class="author-bio">{{ site.author.bio }}</p>
+
+  <div class="author-social">
+    {% if site.author.github %}
+      <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ '/assets/icons/github.svg' | relative_url }}" alt="GitHub" />
+      </a>
+    {% endif %}
+    {% if site.author.twitter %}
+      <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ '/assets/icons/x.svg' | relative_url }}" alt="Twitter" />
+      </a>
+    {% endif %}
+    {% if site.author.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ '/assets/icons/linkedin.svg' | relative_url }}" alt="LinkedIn" />
+      </a>
+    {% endif %}
+  </div>
 </div>
