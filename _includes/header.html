@@ -160,5 +160,23 @@
   <meta name="msapplication-TileColor" content="#da532c" />
   <meta name="theme-color" content="#2c2c2c" />
 
-  <link rel="stylesheet" href="/assets/css/style.css" />
+  {%- comment -%}
+Cache-busted stylesheet — updates every build using site.time.
+Also use relative_url so baseurl works if set.
+{%- endcomment -%}
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" />
+
+{%- comment -%}
+Unregister any previously installed service workers (runs in the browser).
+Keep this inline (runs on page load). After deploy, you can remove this block
+once most users have unregistered (optional).
+{%- endcomment -%}
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistrations().then(function(regs) {
+      for (var r of regs) { r.unregister(); }
+    }).catch(function(e){ console.warn('SW unregister failed', e); });
+  }
+</script>
+
 </head>
