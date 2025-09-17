@@ -217,18 +217,11 @@
 }
 
 // Content
-.posts-item-note {
-  font-size: $base-font-size;
-  font-weight: 700;
-  margin-bottom: 5px;
-  color: $black;
-}
-
 // List of posts
 .post-item {
   display: flex;
-  padding-top: 5px;
-  padding-bottom: 6px;
+  padding-top: 10px;    // was 5px
+  padding-bottom: 12px; // was 6px
   @extend %clearfix;
 
   &:not(:first-child) {
@@ -236,13 +229,13 @@
   }
 
   .post-item-date {
-    min-width: 96px;
+    min-width: 120px;     // was 96px
     color: $black;
     font-weight: 700;
-    padding-right: 10px;
+    padding-right: 12px;
 
     @include media-query($on-mobile) {
-      font-size: 16px;
+      font-size: 18px;    // was 16px
     }
   }
 
@@ -250,20 +243,21 @@
     margin: 0;
     border: 0;
     padding: 0;
-    font-size: $base-font-size;
-    font-weight: normal;
-    letter-spacing: 0.1px;
+    font-size: 1.2rem;    // was $base-font-size
+    font-weight: 500;      // a bit bolder
+    letter-spacing: 0.2px;
 
     a {
       color: $text-base-color;
 
       &:hover,
-      &focus {
+      &:focus {
         color: $black;
       }
     }
   }
 }
+
 // Footer
 .footer {
   margin-top: 8em;
