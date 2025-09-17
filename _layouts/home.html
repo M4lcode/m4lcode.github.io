@@ -3,7 +3,7 @@ layout: default
 home: true
 ---
 
-<h2 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h2>
+<h1 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h1>
 
 {%- assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
 {%- assign posts_by_year = posts_by_year | sort: "name" | reverse -%}
