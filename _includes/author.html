@@ -7,3 +7,15 @@
   <h2 class="author-name">{{ site.author.name }}</h2>
   <p class="author-bio">{{ site.author.bio }}</p>
 </div>
+<div class="author-social">
+  {% if site.author.github %}
+    <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/icons/github.svg' | relative_url }}" alt="GitHub" />
+    </a>
+  {% endif %}
+  {% if site.author.twitter %}
+    <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/assets/icons/twitter.svg' | relative_url }}" alt="Twitter" />
+    </a>
+  {% endif %}
+</div>
