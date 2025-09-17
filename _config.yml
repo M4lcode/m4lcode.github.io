@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: M4lcode # author name
   bio: >- # tell to the world
-    Malware Researcher exploring malware, APT groups, and their campaigns across the wild. 19 Yo.
+    Malware & Threat Intelligence Researcher exploring malware, APT groups, and their campaigns across the wild. 19 Yo.
   username: M4lcode # general username
   github: m4lcode # github username
   twitter: M4lcode # twitter username
