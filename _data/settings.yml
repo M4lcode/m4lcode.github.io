@@ -1,0 +1,73 @@
+#-------------------------------
+# Site Settings
+title: M4lcode
+logo: '/images/logo1.png'
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://m4lcode.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+
+#-------------------------------
+# Navigation Settings
+menu-settings:
+  menu-items:
+    - title: 'Home'
+      url: '/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact Me'
+      url: '/contact/'
+
+#-------------------------------
+# Author Settings
+author:
+  name: M4lcode
+  avatar: '/images/logo1.png'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  title: M4lcode
+  image: '/images/logo1.png'
+  #description: Threat Intelligence Researcher Malware & Threat Intelligence Researcher exploring malware, APT groups, and their campaigns across the wild. own
+  description: Malware & Threat Intelligence Researcher exploring malware, APT groups, and their campaigns across the wild.
+
+
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: mostafafarghaly@gmail.com # Add your email for contact form
+  description: Questions, suggestions, or collaboration ideas? I'd be happy to hear from you.
+# NOTE
+# Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Footer section
+social:
+- {icon: "fa-brands fa-linkedin", link: "https://www.linkedin.com/in/m4lcode"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://x.com/m4lcode"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/M4lcode"}
+# Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+# Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp:  # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp-identifier:
+mailchimp-button-text: Join
