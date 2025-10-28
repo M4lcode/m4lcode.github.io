@@ -1,7 +1,6 @@
 #-------------------------------
 # Site Settings
 title: M4lcode
-logo: '/images/logo1.png'
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://m4lcode.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
