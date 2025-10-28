@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Flesh Stealer: A Report on Multivector Data Theft'
-description: Detailed analysis of Flesh Stealer, published on DeXpose blog.
+description: Detailed analysis of Flesh Stealer, published on DeXpose blog
 date:   2025-04-11 22:01:35 +0300
 image:  '/images/fleshstealer.jpg'
 tags:   [stealer, malware analysis, .NET]

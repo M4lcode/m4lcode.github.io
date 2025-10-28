@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Egypt Post Impersonation Linked to Smishing Triad'
-description: Egypt Post impersonation linked to the Smishing Triad — research published on DeXpose blog.
+description: Egypt Post impersonation linked to the Smishing Triad — research published on DeXpose blog
 date:   2025-05-30 22:01:35 +0300
 image:  '/images/egypost.jpg'
 tags:   [Smishing Triad, Threat Intelligence, Research]
