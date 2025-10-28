@@ -7,11 +7,4 @@ image:  '/images/APT27.jpg'
 tags:   [APT Profile, Threat Intelligence, Research]
 ---
 
-<html>
-  <head>
-    <meta http-equiv="refresh" content="3; url=https://www.dexpose.io/threat-actor-profile-apt27">
-  </head>
-  <body>
-    <p>You are being redirected to the full analysis on DeXpose Blog. If you are not redirected automatically, click the link <a href="https://www.dexpose.io/threat-actor-profile-apt27" target="_blank" rel="noopener noreferrer">https://www.dexpose.io/threat-actor-profile-apt27</a></p>
-  </body>
-</html>
+# Case Study
