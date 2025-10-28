@@ -3,7 +3,7 @@ layout: post
 title: "Matanbuchus Loader Detailed Analysis"
 date: 2024-03-15
 description: "Detailed analysis of Matanbuchus Loader, published on Cyber5W blog."
-image:  /images/matanbuchus.jpg'
+image:  /images/matanbuchus.jpg
 tags:   [API Hashing, Stack Strings, malware analysis, Loader, C++]
 ---
 
