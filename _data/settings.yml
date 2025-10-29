@@ -3,6 +3,7 @@
 title: M4lcode
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://m4lcode.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+avatar: /images/profile1.ico
 
 #-------------------------------
 # Navigation Settings
