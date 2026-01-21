@@ -2,7 +2,7 @@
 layout: post
 title:  'Deep Dive into Arkanix Stealer and its Infrastructure'
 description: Detailed analysis of Arkanix Stealer, published on DeXpose blog
-date:   2025-12-22 22:01:35 +0300
+date:   2025-11-22 22:01:35 +0300
 image:  '/images/arkanix.png'
 tags:   [stealer, ChromElevator, malware analysis, Infrastructure Analysis, c++]
 ---
