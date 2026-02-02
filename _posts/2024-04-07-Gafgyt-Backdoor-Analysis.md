@@ -8,9 +8,9 @@ tags:   [malware analysis, Backdoor, Linux]
 ---
 <html>
   <head>
-    <meta http-equiv="refresh" content="3; url=https://cyber5w.com/blog/gafgyt-backdoor-analysis">
+    <meta http-equiv="refresh" content="3; url=https://web.archive.org/web/20240410070129/https://blog.cyber5w.com/gafgyt-backdoor-analysis">
   </head>
   <body>
-    <p>You are being redirected to the full analysis on Cyber5W blog. If you are not redirected automatically, click the link <a href="https://cyber5w.com/blog/gafgyt-backdoor-analysis" target="_blank" rel="noopener noreferrer">https://cyber5w.com/blog/gafgyt-backdoor-analysis</a></p>
+    <p>You are being redirected to the full analysis on Cyber5W blog. If you are not redirected automatically, click the link <a href="https://web.archive.org/web/20240410070129/https://blog.cyber5w.com/gafgyt-backdoor-analysis" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20240410070129/https://blog.cyber5w.com/gafgyt-backdoor-analysis</a></p>
   </body>
 </html>
