@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chinese Smishing Campaign: How a Large-Scale Phishing Kit Is Targeting 80+ Brands Across 20 Countries'
+title: 'Chinese Smishing Campaign: How a Large-Scale Phishing Kit is Targeting 80+ Brands Across 20 Countries'
 description: Detailed analysis of a global Chinese smishing campaign, published on DeXpose blog
 date: 2026-04-20 10:00:00 +0300
 image: '/images/chinese-smishing-campaign.jpg'
