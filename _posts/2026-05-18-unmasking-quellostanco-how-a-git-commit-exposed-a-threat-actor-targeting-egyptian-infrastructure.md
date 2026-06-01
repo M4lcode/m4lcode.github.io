@@ -3,7 +3,7 @@ layout: post
 title: 'Unmasking Quellostanco: How a Git Commit Exposed a Threat Actor Targeting Egyptian Infrastructure (co-authored)'
 description: OSINT Investigation and Identity Reveal for Quellostanco, published on DeXpose blog
 date: 2026-04-20 10:00:00 +0300
-image: '/images/quellostanco.jpg'
+image: '/images/quellostanco.jpeg'
 tags: [OSINT, GitHub-Commits, threat actors, identity reveal]
 ---
 
